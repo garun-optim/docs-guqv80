@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-wd2hzb.indowin.cfd/sitemap.xml
